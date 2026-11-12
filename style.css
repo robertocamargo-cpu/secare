@@ -33,6 +33,7 @@ button.spinning::before{content:'';display:inline-block;width:13px;height:13px;b
 .result-actions button{padding:8px 11px;margin-top:0;font-size:12px}
 .edit-grid{margin-top:12px;border:1px dashed #b9cdec;border-radius:10px;padding:14px;background:#f8fbff}
 .edit-grid label{font-size:10px;letter-spacing:.08em;font-weight:700;color:#76839a}
+.edit-grid textarea{height:74px;min-height:52px;font-size:13px}
 .edit-actions{display:flex;gap:7px;margin-top:10px}
 .edit-actions button{padding:8px 13px;margin-top:0;font-size:12px}
 .proj-empty{margin:12px 0 0;color:#8b96a8;font-size:12.5px}
